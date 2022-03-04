@@ -1,0 +1,2 @@
+Copy files at
+/home/bryant/.mozilla/firefox/ys93nx10.dev-edition-default/chrome
